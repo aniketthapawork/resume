@@ -1,5 +1,6 @@
 ---
 title: "Aniket Thapa – Resume"
+layout: default
 ---
 
 # Aniket Thapa
