@@ -34,7 +34,7 @@ graph TD
   Tools --> Postman
   Tools --> VSCode[VS Code]
   Tools --> Linux[Linux Terminal]
-
+```
 
 ---
 
