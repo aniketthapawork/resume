@@ -1,152 +1,124 @@
-# 💼 Aniket Thapa
+# Aniket Thapa
 
 **Backend Developer | Node.js Specialist | API Designer**  
-📍 India | 📧 aniketthapa.dev@gmail.com | 📞 +91 9103315277  
-🔗 [LinkedIn](https://linkedin.com/in/aniket-thapa) • [GitHub](https://github.com/aniket-thapa)
+Email: [aniketthapa.dev@gmail.com](mailto:aniketthapa.dev@gmail.com)  
+Phone: +91 9103315277  
+LinkedIn: [linkedin.com/in/aniket-thapa](https://linkedin.com/in/aniket-thapa)  
+GitHub: [github.com/aniket-thapa](https://github.com/aniket-thapa)
 
 ---
 
-## 🔹 Summary
+## Summary
 
-Dedicated and performance-driven IT undergraduate with a passion for crafting scalable, secure, and efficient web applications. With a strong foundation in **Node.js**, **Express**, **MySQL**, and **MongoDB**, I specialize in designing clean RESTful APIs, database-driven systems, and full-stack web platforms. I enjoy working on meaningful projects that solve real-world problems and believe in continuous self-improvement through hands-on experience and exploration.
-
----
-
-## 🛠️ Tech Stack
-
-```mermaid
-graph TD
-  Frontend[Frontend] --> HTML
-  Frontend --> CSS
-  Frontend --> JS[JavaScript]
-  Frontend --> EJS
-  Frontend --> TailwindCSS
-
-  Backend[Backend] --> NodeJS[Node.js]
-  Backend --> ExpressJS[Express.js]
-  Backend --> REST[REST APIs]
-
-  Database[Database] --> MySQL
-  Database --> MongoDB
-
-  Tools[Tools & Platforms] --> Git
-  Tools --> GitHub
-  Tools --> Postman
-  Tools --> VSCode[VS Code]
-  Tools --> Linux[Linux Terminal]
-```
+Passionate and goal-oriented Information Technology undergraduate with practical experience in backend development and full-stack applications. I specialize in building scalable APIs, crafting modular server-side logic, and managing databases using tools like Node.js, Express, MySQL, and MongoDB. Known for writing clean, maintainable code and delivering real-world solutions through collaboration and continuous learning.
 
 ---
 
-## 💼 Experience
+## Skills
 
-### 🧑‍💻 Full Stack Development Intern
+**Languages**  
+- C, C++, JavaScript, Python (Intermediate)
 
-**University of Jammu – PG Dept. of Computer Science & IT**
-📅 *June 2024 – July 2024*
+**Backend Development**  
+- Node.js, Express.js, RESTful API Design
 
-* Developed a full-stack **Alumni Management & Transcript Generation System**.
-* Engineered backend logic using **Node.js** and **MySQL** with robust session and file management.
-* Delivered a clean and accessible admin interface using **EJS** and **TailwindCSS**.
-* Liaised with university faculty to tailor functionality to academic workflows.
+**Frontend Development**  
+- HTML, CSS, JavaScript, EJS, Tailwind CSS
 
----
+**Databases**  
+- MySQL, MongoDB
 
-## 🚀 Projects
-
-### 🎓 [Alumni Management & Transcript System](https://github.com/aniket-thapa/alumni-management-and-transcript-generation-system)
-
-**Stack**: Node.js, Express, MySQL, Multer, EJS, Axios
-
-> End-to-end platform for handling alumni records and transcript processing.
-
-* Secure login/session management and dynamic rendering.
-* Supports document upload, PDF generation, and role-based access.
+**Tools & Platforms**  
+- Git, GitHub, Postman, Visual Studio Code, Linux Terminal
 
 ---
 
-### 📚 [Library Management System](https://github.com/aniket-thapa/library-management-system)
+## Work Experience
 
-**Stack**: Node.js, Express, MySQL
+**Full Stack Development Intern**  
+University of Jammu – PG Department of Computer Science and IT  
+*June 2024 – July 2024*
 
-> Backend-focused project for managing books and users.
-
-* Integrated admin control for issuing/returning books.
-* Efficient data modeling and RESTful routes.
-
----
-
-### 📝 [Blogging Platform](https://github.com/aniket-thapa/blogging-platform)
-
-**Stack**: Node.js, MongoDB, Google OAuth
-
-> A minimalist blog system with authentication and post routing.
-
-* Google OAuth integration.
-* Clean session-based login and blog rendering via EJS.
+- Designed and deployed a complete Alumni Management and Transcript Generation System.
+- Developed backend services using Node.js and Express with data persistence via MySQL.
+- Built user-friendly dashboards with dynamic rendering using EJS.
+- Collaborated with academic stakeholders to ensure the system met university requirements.
 
 ---
 
-### ✅ [Task Management API](https://github.com/aniket-thapa/task-management-api)
+## Projects
 
-**Stack**: Node.js, Express, MySQL
+**Alumni Management & Transcript Generation System**  
+[GitHub Repository](https://github.com/aniket-thapa/alumni-management-and-transcript-generation-system)  
+*Node.js, Express.js, MySQL, Multer, Axios, EJS*
 
-> Lightweight but secure task creation and tracking API.
+- Developed a full-stack application for managing alumni records and transcript processing.
+- Integrated session-based authentication and secure file handling.
 
-* JWT-authenticated endpoints with CRUD operations.
-* Clear and modular route design.
+**Library Management System**  
+[GitHub Repository](https://github.com/aniket-thapa/library-management-system)  
+*Node.js, Express.js, MySQL*
 
----
+- Created backend logic for book issuance, returns, and admin functionality.
+- Developed structured RESTful routes and user transaction tracking.
 
-## 📜 Certifications
+**Blogging Platform**  
+[GitHub Repository](https://github.com/aniket-thapa/blogging-platform)  
+*Node.js, Express.js, MongoDB, Google OAuth, EJS*
 
-* 🏅 **JavaScript Essentials 1** – Cisco Networking Academy
-  🔗 [Credly Certificate](https://www.credly.com/badges/fcb58e2b-e598-401e-99b1-5e64f43c53bc)
+- Designed a dynamic blog creation system with Google-based OAuth authentication.
+- Handled routing and session logic for secure post access and creation.
 
-* 💻 **Web Development Basics** – PhysicsWallah
-  🔗 [Certificate](https://pwskills.com/learn/certificate/522bf2b8-e5b0-402d-8bc9-cb0b7732dc5b)
+**Task Management API**  
+[GitHub Repository](https://github.com/aniket-thapa/task-management-api)  
+*Node.js, Express.js, MySQL*
 
-* 🔧 **Backend Development** – PhysicsWallah
-  🔗 [Certificate](https://pwskills.com/learn/certificate/37626c8b-f0cf-4188-839e-b362a05476fd)
-
----
-
-## 🎓 Education
-
-**B.E. in Information Technology**
-📍 MBM University, Jodhpur
-🗓️ *2022 – Present* | 🎯 GPA: 8.76
-Courses: DBMS, Operating Systems, CN, DSA, OOP, Software Engineering, AI/ML, NLP
-
-**Class 12 – State Board**
-📅 2021 – 2022 | 📊 83.2%
-
-**Class 10 – State Board**
-📅 2019 – 2020 | 📊 86%
+- Built a secure task management REST API with login, task creation, and CRUD features.
+- Focused on code modularity, security, and performance.
 
 ---
 
-## 💡 Tech Philosophy
+## Certifications
 
-> "I believe great software is built with **clarity**, **security**, and **scalability** in mind. I focus on writing clean, maintainable code that’s easy for teams to build on and users to trust."
+- **JavaScript Essentials 1** – Cisco Networking Academy  
+  [View Certificate](https://www.credly.com/badges/fcb58e2b-e598-401e-99b1-5e64f43c53bc)
 
----
+- **Web Development Basics** – PhysicsWallah  
+  [View Certificate](https://pwskills.com/learn/certificate/522bf2b8-e5b0-402d-8bc9-cb0b7732dc5b)
 
-## 🧠 Soft Skills
-
-* 🔍 Strong analytical thinking and debugging skills.
-* 🤝 Effective communicator in collaborative, fast-paced teams.
-* 🕒 Time management champion — consistent with deadlines and goals.
-* 🌱 Growth-oriented — committed to lifelong learning.
-* 🧼 Code hygiene enthusiast — modular, readable, and DRY.
+- **Backend Development Course** – PhysicsWallah  
+  [View Certificate](https://pwskills.com/learn/certificate/37626c8b-f0cf-4188-839e-b362a05476fd)
 
 ---
 
-## 🔗 Links
+## Education
 
-* 📁 [Alumni Management System Repo](https://github.com/aniket-thapa/alumni-management-and-transcript-generation-system)
-* 📁 [Library Management System Repo](https://github.com/aniket-thapa/library-management-system)
-* 📁 [Blogging Platform Repo](https://github.com/aniket-thapa/blogging-platform)
-* 📁 [Task Management API Repo](https://github.com/aniket-thapa/task-management-api)
+**Bachelor of Engineering in Information Technology**  
+MBM University, Jodhpur  
+*2022 – Present*  
+GPA: 8.76  
+Relevant Courses: DBMS, Operating Systems, Computer Networks, OOP, DSA, Software Engineering, AI & ML, NLP
 
-```
+**Higher Secondary (Class 12)** – State Board  
+*2021 – 2022*  
+Percentage: 83.2%
+
+**Secondary (Class 10)** – State Board  
+*2019 – 2020*  
+Percentage: 86%
+
+---
+
+## Soft Skills
+
+- Analytical thinker with strong problem-solving abilities
+- Effective communicator in team-based environments
+- Self-motivated learner with a strong work ethic
+- Highly organized and able to manage multiple projects
+- Committed to writing clean, maintainable code
+
+---
+
+## Tech Philosophy
+
+> Great software is not just about functionality — it’s about clarity, consistency, and creating value for others. I strive to build systems that are as intuitive for users as they are efficient for developers.
