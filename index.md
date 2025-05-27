@@ -1,3 +1,7 @@
+---
+title: "Aniket Thapa – Resume"
+---
+
 # Aniket Thapa
 
 **Backend Developer | Node.js Specialist | API Designer**  
