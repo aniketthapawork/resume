@@ -1,4 +1,4 @@
-# Aniket Thapa
+# Aniket Thapa (README.md)
 
 **Backend Developer | Node.js Specialist | API Designer**  
 Email: [aniketthapa.dev@gmail.com](mailto:aniketthapa.dev@gmail.com)  
